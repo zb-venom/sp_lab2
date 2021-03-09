@@ -55,7 +55,7 @@ _less:
 	jmp _arr	
 	
 _more:	
-	add moreSum, al	
+	add moreSum, al
 	jmp _arr
 	
 _close:
